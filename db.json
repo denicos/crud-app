@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "nicos",
+      "lastName": "waves",
+      "email": "nico@gmail.com",
+      "dob": "2023-03-20T21:00:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "experience": 7,
+      "company": "mbaleinvestments",
+      "package": 400000000,
+      "id": 1
+    },
+    {
+      "firstName": "jac",
+      "lastName": "jacobs",
+      "email": "jac@gmail.com",
+      "dob": "2023-03-21T21:00:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "experience": 8,
+      "company": "jacobfoods ltd",
+      "package": 2000000,
+      "id": 2
+    },
+    {
+      "firstName": "Rogers ",
+      "lastName": "Macgyver",
+      "email": "rogers@gmail.com",
+      "dob": "2023-03-20T21:00:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "experience": 5,
+      "company": "Just Creative Media",
+      "package": 7000000,
+      "id": 3
+    }
+  ]
+}
